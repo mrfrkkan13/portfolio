@@ -1,28 +1,33 @@
 const projectsData = [
   {
-    title: 'Fabrilab',
-    description: `Creation of a web design agency.`,
-    imgSrc: '/static/images/projects/fabrilab.png',
-    href: '/blog/projects/fabrilab-web-agency',
+    title: 'Realtime Chat Application',
+    description: `Websocket tabanlı gerçek zamanlı mesajlaşma uygulaması. Spring Boot, WebSocket, MongoDB ve Docker Compose teknolojileri kullanılmıştır.`,
+    imgSrc: '/static/images/projects/chat.png',
+    href: 'https://github.com/mrfrkkan13/Realtime-Chat',
   },
   {
-    title: 'Toy Surfboards',
-    description: `Creation & developpement of a e-commerce website.`,
-    imgSrc: '/static/images/projects/browser_toy.png',
-    href: '/blog/projects/toy-surfboards',
+    title: 'End-To-End Financial Market Analysis',
+    description: `Finansal piyasa verilerinin Apache Kafka ve Apache Spark kullanılarak gerçek zamanlı analizi ve tahminleme projesi.`,
+    imgSrc: '/static/images/projects/finance.jpeg',
+    href: 'https://github.com/mrfrkkan13/End-To-End-Realtime-Financial-Market-Data-Analysis',
   },
   {
-    title: 'TotalEnergies',
-    description: `Creation of Guidelines for Small & Big Packaging.`,
-    imgSrc: '/static/images/projects/TE-Project-2022.png',
-    href: '/blog/projects/total-energies',
+    title: 'Spring Security Project',
+    description: `Spring Security kullanılarak geliştirilmiş güvenlik uygulamaları ve örnekleri.`,
+    imgSrc: '/static/images/projects/security.png',
+    href: 'https://github.com/mrfrkkan13/Spring-Security',
   },
-
   {
-    title: 'Havana Club x VALD',
-    description: `Operational launch of the Havana Club x VALD collaboration.`,
-    imgSrc: '/static/images/projects/havanaclub-vald.jpg',
-    href: '/blog/projects/havana-club-x-vald',
+    title: 'OpenAI ChatGPT Integration',
+    description: `Spring Boot kullanılarak OpenAI API entegrasyonu ile ChatGPT uygulaması.`,
+    imgSrc: '/static/images/projects/chatgpt.png',
+    href: 'https://github.com/mrfrkkan13/OpenAI-ChatGPT-Application-',
+  },
+  {
+    title: 'MQTT Client Example',
+    description: `Node.js tabanlı MQTT protokolü ile mesajlaşma örneği. TypeScript ve Docker kullanılarak geliştirilmiştir.`,
+    imgSrc: '/static/images/projects/mqtt.jpg',
+    href: 'https://github.com/mrfrkkan13/mqtt-client-example',
   },
 ];
 

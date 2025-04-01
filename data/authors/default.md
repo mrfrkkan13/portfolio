@@ -1,116 +1,107 @@
 ---
-name: Raphaël Chelly
-avatar: /static/images/avatar.jpg
-occupation: Marketing Project Manager
-company: Octopia
-email: hi@raphaelchelly.com
-twitter: https://twitter.com/raphael_chelly
-linkedin: https://www.linkedin.com/raphael.chelly
-github: https://github.com/raphaelchelly
+name: Ömer Faruk Kan
+avatar: /static/images/avatar.png
+occupation: Software Engineer
+company: Eteration
+email: omerfarukkan5@gmail.com
+phone: 0553 542 12 80
+linkedin: https://www.linkedin.com/in/ömer-faruk-kan-922928223/
+github: https://github.com/mrfrkkan13
+medium: https://medium.com/@mrfrkkan234
 ---
 
-Graduated from a **Master in Management** at Excelia Business School, I am passionate about **digital and new technologies.** Creative, proactive, versatile and with a good understanding of digital and marketing, **I am confident in my ability to tackle new missions.** Organized and rigorous, I possess a range of key business and interpersonal skills that I have developed through my professional experiences.
+I am a 21-year-old software engineering student in Istanbul, passionate about **DevOps and cloud technologies.** Creative, proactive, and with a strong foundation in backend development, **I am confident in tackling complex technical challenges.** I have hands-on experience with AWS, Docker, Kubernetes, and messaging systems, continuously expanding my skills through practical projects and certifications.
 
 - [💼 Experience](#experience)
-- [🧑🏻‍💻 Side Project](#side-project)
 - [🎓 Education](#education)
-- [🤹🏼‍♂️ Skills](#skills)
-- [🏐 Interests](#interests)
+- [🛠 Skills](#skills)
+- [📜 Certifications](#certifications)
+- [🌐 Languages](#languages)
 
 ## Experience
 
-### Marketing Project Manager @**[Octopia](https://octopia.com)**
+### Software Developer Intern @**[Eteration](https://www.eteration.com)**
 
-`Oct 2021 - Today`
+`2024 - Present`
 
-Responsible for **the acquisition and marketing development of the Octopia Products offer** in order to develop the activity and e-commerce sales in France and internationally.
+I have gained extensive experience in **DevOps and mobile development**, focusing on NestJS for scalable backend solutions and React Native for mobile applications. Working with:
 
-### Marketing Project Manager @[Microsoft](https://microsoft.net)
-
-`Sept 2019 - Sept 2020`
-
-Participation in the implementation of Microsoft France’s marketing plan for the Education audience (Primary/Secondary and Higher Education) in order to **develop the network of teachers and partner schools.**
-
-### Digital Project Manager @[Havana Club International](https://havana-club.com)
-
-`Jan 2019 - Jul 2019`
-
-As part of the International Marketing team and under the responsibility of the Senior Brand Manager, I participate in the launch and follow-up of **international digital projects** for Havana Club International, a subsidiary of Pernod Ricard group.
-
-### Digital Project Manager @[Pernod Ricard France](https://www.pernod-ricard.com/fr/nos-marches/france)
-
-`Jul 2018 - Jan 2019`
-
-Support to the Digital Manager on the deployment of the **digital strategy of the Havana Club brand on the French market.**
-
-## Side Project
-
-### Cofounder & Project Manager @[Fabrilab](https://fabrilab.net)
-
-`Sept 2017 - Today`
-
-Creation of a communication agency in the form of a micro-enterprise. Fabrilab supports self-employed and small businesses in their **digital transition.**
-
-- Main clients : TotalEnergies, Solis International, SCEBOG (1st agricultural cooperative of Guyana)...
+- Docker for containerization
+- GitLab CI/CD, Kaniko, and SonarQube for automation
+- Agile and Scrum project management
+- Backend development using Spring Boot and NestJS
+- Mobile development with React Native
 
 ## Education
 
-### Master in Management @[Excelia BS](https://www.excelia-group.com)
+### Software Engineering @[Karadeniz Technical University]
 
-`Sept 2016 - Sept 2020`
+`2020 - Present`
 
-Member of the «Conférence des Grandes Ecoles», AMBA, AACSB, EQUIS and EPAS accredited. Graduate of a master in management, specialising in Marketing & Brand Management.
+Fourth year software engineering student with a strong academic record:
+
+- GPA: 3.10/4.00
+- Focus on software development and cloud technologies
+- Active participation in technical projects and workshops
+
+### Google Game and Application Academy
+
+`2023`
+
+Selected participant for intensive training program:
+
+- Mobile application development
+- Game development fundamentals
+- Practical project implementation
 
 ## Skills
 
-### Hard Skills:
+### Technical Skills:
 
-- 🇬🇧 English
-- 🇪🇸 Spanish
-- 🤹🏼‍♂️ Project Management
-- 🌐 WordPress
-- 💻 Digital Marketing
-- 🎨 Adobe CC
-- 🔍 SEO
-- 📊 Microsoft 365
-- 📨 E-CRM Management
-- 📱 Social Media Management
+- 💻 Backend Development:
+  - Java & Spring Boot
+  - TypeScript & NestJS
+  - Node.js / JavaScript
+- 📱 Mobile Development:
+  - React Native
+- ☁️ DevOps & Cloud:
+  - Docker
+  - Kubernetes
+  - AWS
+  - GitLab CI/CD
+- 🔄 Message Brokers:
+  - Apache Kafka
+  - RabbitMQ
+- 🗄️ Databases:
+  - PostgreSQL
+  - MongoDB
+  - MySQL
 
-### Soft Skills:
+### Tools & Platforms:
 
-- 🎨 Creative
-- 📚 Curious
-- 🤝🏼 Team Spirit
+- 📊 Jira
+- 🔧 GitLab / Github
+- 🚀 CI/CD Tools
+- 📈 SonarQube
 
-## Interests
+## Certifications
 
-### Sports:
+- **Cloud Computing:**
+  - [HCCDA - Tech Essential / Huawei Cloud](https://drive.google.com/file/d/1CyZdieeIVSlKrF07vQ3K9ft_6k9_2Dgn/view)
+- **Backend Development:**
+  - [Tübitak Bilgem YTE Bootcamp Spring Developer](https://drive.google.com/file/d/1QUYDBqLtvNQIunEB676wHxzwsRMVOrKQ/view)
+  - ASP .Net Core 5.0 ile Kurumsal Mimari'de Dinamik Web Geliştirme
+  - [Archis academy spring boot web geliştirme](https://drive.google.com/file/d/1vpCgfrX7UKk5zAhqG3zssQZHiiFBvH5H/view)
+- **Mobile Development:**
+  - [Mobile Developer certificates / Istanbul Chamber of Commerce](https://drive.google.com/file/d/1hYNb6RVvdz_8PShGoAYxPbZAmn_uzFQC/view?usp=sharing)
+- **Other Technical Certifications:**
+  - [Siber kültürler birliği siber güvenlik bootcamp](https://drive.google.com/file/d/1YckN5nPIuI9DWHoACBb19vSKrmmaU3TK/view)
+  - [Veri Madenciliği ve SQL Eğitimi](https://drive.google.com/file/d/1yGxeWAPsGlyzGTNKjAiqwUcqWvlouL7u/view)
+  - Google project management certificate
 
-- 🏄🏽‍♂️ Bodyboarding & Surfing
-- 🏊🏼‍♂️ Swimming
+## Languages
 
-|                                                       |                                         |
-| ----------------------------------------------------- | --------------------------------------- |
-| ![Bodyboarding](/static/images/bodyboarding-raph.jpg) | ![Wave](/static/images/wave-france.jpg) |
+### Language Skills:
 
-### Others:
-
-- 🗺️ Discovery and Traveling
-- 📷 Photography
-- 🎶 Music
-- ♟️ Chess ➡️ [Chess.com](https://www.chess.com/member/raphythe)
-
-### Humanitarian:
-
-- 🤝🏼 Volunteer teacher in Cambodia in 2017 for 3 months in a children’s centre **"Les Enfants de Klang Leu".** As a teacher, I taught French, English and IT. Practice hygiene rules and help with the daily life of the center.
-
-### Other Experiences:
-
-- **2021:** TikTok Business for Enterprise training
-- **2020:** Facebook Spark AR Tutorials
-- **2018:** Bike courier for Deliveroo and Uber Eats
-- **2018:** Ambassador [ASUS](https://www.asus.com/fr/) Vivobook S and ASUS ZenFone 5
-- **2017-2018:** Digital Project Manager of the Student Office of Excela Business School
-- **2017:** Hotel receptionist in Australia at the [Nomads Noosa Hotel](https://nomadsworld.com/australia/nomads-noosa/)
-- **2016-2017:** Bank teller at [La Poste Group](https://www.lapostegroupe.com/fr) (replacement during the holidays)
-- **2015:** Online advisor at [CIC](https://www.cic.fr/fr/index.html) (6-month fixed-term contract)
+- Turkish (Native)
+- English (B1-B2)

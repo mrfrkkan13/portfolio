@@ -18,13 +18,7 @@ export default function AuthorLayout({ children, frontMatter }) {
         <div className="items-start">
           <div className="darK:bg-slate-100 flex flex-col items-center rounded-lg bg-slate-700 bg-opacity-10 p-2 text-center md:flex-row">
             <div>
-              <Image
-                src="/static/images/avatar.jpg"
-                alt="avatar"
-                width="150px"
-                height="150px"
-                className="rounded-full"
-              />
+              <Image src={avatar} alt="avatar" width={150} height={150} className="rounded-full" />
             </div>
             <h3 className="py-2 text-2xl font-bold leading-8 tracking-tight">{name}</h3>
             <div className="text-gray-500 dark:text-gray-400">{occupation}</div>
