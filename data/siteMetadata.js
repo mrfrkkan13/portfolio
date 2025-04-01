@@ -11,7 +11,7 @@ const siteMetadata = {
   image: '/static/images/avatar.jpg',
   email: 'omerfarukkan5@gmail.com',
   github: 'https://github.com/mrfrkkan13',
-  twitter: 'https://twitter.com/mrfrkkan13',
+  medium: 'https://medium.com/me/stories/public',
   linkedin: 'https://www.linkedin.com/in/%C3%B6mer-faruk-kan-922928223/',
   locale: 'en-US',
   analytics: {
