@@ -1,5 +1,14 @@
 const blogData = [
   {
+    title: " Red Hat OpenShift'e Giriş ",
+    date: '2025-04-06',
+    tags: ['Red Hat', 'OpenShift', 'Kubernetes', 'Deployment'],
+    summary:
+      'OpenShift nedir, Kubernetes’ten farkları nelerdir ve modern uygulamalar nasıl dağıtılır? Blue/Green ve A/B dağıtım stratejileri dahil olmak üzere tüm detayları sade ve uygulamalı olarak bu yazımda anlattım.',
+    externalUrl: 'https://medium.com/@mrfrkkan234/openshifte-giri%C5%9F-1b8c03419443',
+    imgSrc: '/static/images/blog/red-hat-openshift-logo-png_seeklogo-448952.png',
+  },
+  {
     title: 'CQRS Design Pattern',
     date: '2024-03-20',
     tags: ['Design Pattern', 'CQRS', 'Software Architecture', 'Backend'],
