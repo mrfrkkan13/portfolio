@@ -1,5 +1,15 @@
 const blogData = [
   {
+    title: 'Ubuntu VM Üzerinde Manuel OpenVPN Kurulumu: Adım Adım Rehber',
+    date: '2024-03-25',
+    tags: ['OpenVPN', 'Ubuntu', 'VPN', 'Network Security', 'DevOps'],
+    summary:
+      'Ubuntu sanal makinesi üzerinde OpenVPN sunucusunun manuel kurulumu ve yapılandırması için detaylı adım adım rehber.',
+    externalUrl:
+      'https://medium.com/@mrfrkkan234/ubuntu-vm-%C3%BCzerinde-manuel-openvpn-kurulumu-ad%C4%B1m-ad%C4%B1m-rehber-34be3dc15340',
+    imgSrc: '/static/images/blog/openvpn.jpg',
+  },
+  {
     title: 'CQRS Design Pattern',
     date: '2024-03-20',
     tags: ['Design Pattern', 'CQRS', 'Software Architecture', 'Backend'],
