@@ -44,7 +44,7 @@ export default function Home({ posts }) {
         </div>
         <div className="prose max-w-none text-zinc-500 dark:text-slate-300">
           <p className="mb-4">
-            I am a 21-year-old software engineering student at Istanbul Medipol University,
+            I am a 21-year-old software engineering student at Karadeniz Technical University,
             passionate about building scalable and efficient systems. My expertise lies in:
           </p>
           <ul className="ml-6 list-disc space-y-2">
@@ -120,19 +120,19 @@ export default function Home({ posts }) {
           </a>
           <a
             className="focusable flex flex-none cursor-pointer items-center justify-center gap-2 rounded-md bg-blue-500 py-2 px-2.5 font-medium text-white shadow-lg shadow-blue-500/10 transition selection:bg-white/30 hover:bg-blue-500/80 hover:shadow-blue-500/5 focus:ring-blue-500/40 dark:bg-blue-400 dark:text-zinc-900 dark:shadow-blue-400/10 dark:selection:bg-zinc-900/30 dark:hover:bg-blue-400/80 dark:hover:shadow-blue-400/5 dark:focus:ring-blue-400/40 sm:w-auto sm:px-3 sm:pl-2.5"
-            href="https://twitter.com/mrfrkkan13"
+            href="https://medium.com/me/stories/public"
             rel="noreferrer"
             target="_blank"
           >
             <svg height="24" role="presentation" width="24" xmlns="http://www.w3.org/2000/svg">
               <path
                 clipRule="evenodd"
-                d="M21.5 5.894a7.571 7.571 0 0 1-2.239.636 4.024 4.024 0 0 0 1.714-2.235 7.646 7.646 0 0 1-2.475.98A3.83 3.83 0 0 0 15.654 4c-2.516 0-4.366 2.433-3.797 4.959-3.239-.168-6.111-1.776-8.034-4.22-1.021 1.816-.53 4.19 1.206 5.393a3.78 3.78 0 0 1-1.765-.505c-.043 1.87 1.252 3.622 3.126 4.011-.548.155-1.15.19-1.76.07.495 1.604 1.934 2.771 3.641 2.804A7.642 7.642 0 0 1 2.5 18.185 10.757 10.757 0 0 0 8.476 20c7.237 0 11.326-6.334 11.079-12.015a8.101 8.101 0 0 0 1.945-2.09Z"
+                d="M2.846 6.887c.03-.295-.083-.586-.303-.784l-2.24-2.7v-.403h6.958l5.378 11.795 4.728-11.795h6.633v.403l-1.916 1.837c-.165.165-.247.416-.213.668v16.498c-.034.295.083.586.303.784l2.24 2.7v.403h-9.115v-.403l2.24-2.7c.278-.278.278-.417.278-.668v-10.39l-5.389 13.688h-.728l-6.275-13.688v9.477c-.07.417.03.83.303 1.084l2.6 3.153v.404h-7.148v-.404l2.6-3.153c.278-.278.372-.667.303-1.084v-10.608z"
                 fill="currentColor"
                 fillRule="evenodd"
               />
             </svg>
-            <span className="hidden sm:inline">Twitter</span>
+            <span className="hidden sm:inline">Medium</span>
           </a>
         </div>
         <div className="flex w-full justify-center">
