@@ -10,6 +10,16 @@ const blogData = [
     imgSrc: '/static/images/blog/openvpn.jpg',
   },
   {
+    title: "Red Hat OpenShift'e Giriş",
+    date: '2024-04-06',
+    tags: ['Red Hat', 'OpenShift', 'Kubernetes', 'Deployment'],
+    summary:
+      'OpenShift nedir, Kubernetes ile farkları nelerdir ve modern uygulamalar nasıl dağıtılır? Sade ve uygulamalı olarak anlattım.',
+    externalUrl: 'https://medium.com/@mrfrkkan234/openshifte-giri%C5%9F-1b8c03419443',
+
+    imgSrc: '/static/images/blog/red-hat-openshift-logo-png_seeklogo-448952.png',
+  },
+  {
     title: 'CQRS Design Pattern',
     date: '2024-03-20',
     tags: ['Design Pattern', 'CQRS', 'Software Architecture', 'Backend'],
