@@ -1,8 +1,8 @@
 ---
 name: Ömer Faruk Kan
 avatar: /static/images/avatar.png
-occupation: Software Engineer
-company: Eteration
+occupation: SRE & DevOps Engineer
+company: Doğuş Teknoloji
 email: omerfarukkan5@gmail.com
 phone: 0553 542 12 80
 linkedin: https://www.linkedin.com/in/ömer-faruk-kan-922928223/
@@ -20,9 +20,22 @@ I am a 21-year-old software engineering student in Istanbul, passionate about **
 
 ## Experience
 
-### Software Developer Intern @**[Eteration](https://www.eteration.com)**
+### Application Operations Management - SRE & DevOps Engineer @**[Doğuş Teknoloji](https://www.d-teknoloji.com.tr/)**
 
-`2024 - Present`
+`07-2025 - Present`
+
+Working in the **Cloud & Platform team** as an SRE and DevOps Engineer, focusing on application operations management and infrastructure reliability. Key responsibilities include:
+
+- Site Reliability Engineering (SRE) practices and monitoring
+- DevOps automation and CI/CD pipeline management
+- Cloud infrastructure management and optimization
+- Application performance monitoring and troubleshooting
+- Infrastructure as Code (IaC) implementation
+- System reliability and availability improvements
+
+### Software Engineer Assistant @**[Eteration](https://www.eteration.com)**
+
+`07-2024 - 07-2025`
 
 I have gained extensive experience in **DevOps and mobile development**, focusing on NestJS for scalable backend solutions and React Native for mobile applications. Working with:
 
@@ -59,34 +72,58 @@ Selected participant for intensive training program:
 ### Technical Skills:
 
 - 💻 Backend Development:
-  - Java & Spring Boot
+  - Java & Spring Framework
   - TypeScript & NestJS
   - Node.js / JavaScript
 - 📱 Mobile Development:
   - React Native
-- ☁️ DevOps & Cloud:
-  - Docker
-  - Kubernetes
-  - AWS
-  - GitLab CI/CD
-- 🔄 Message Brokers:
+- ☁️ Cloud & Infrastructure:
+  - AWS (EC2, S3, RDS, Lambda)
+  - Azure DevOps
+  - Docker & Containerization
+  - Kubernetes Orchestration
+- 🔄 DevOps & Automation:
+  - GitLab CI/CD & GitHub Actions
+  - Jenkins Pipeline Management
+  - Ansible Configuration Management
+  - Broadcom Automic Workload Automation
+- 🔄 Message Brokers & Streaming:
   - Apache Kafka
   - RabbitMQ
 - 🗄️ Databases:
   - PostgreSQL
   - MongoDB
   - MySQL
+- 🐧 System Administration:
+  - Linux & Bash Scripting
+  - System Monitoring & Performance
+- 📊 Quality & Monitoring:
+  - SonarQube Code Quality
+  - Jira Project Management
 
 ### Tools & Platforms:
 
-- 📊 Jira
-- 🔧 GitLab / Github
-- 🚀 CI/CD Tools
+- 🐧 Linux - Bash Script
+- 🐳 Docker
+- ☸️ Kubernetes
+- 🔧 GitLab / GitHub
+- ☁️ AWS
+- 🚀 Jenkins
+- 📨 Kafka
+- 🌱 Spring Framework
+- 📘 TypeScript
+- 📱 React Native
+- 🍃 MongoDB
 - 📈 SonarQube
+- 🔵 Azure DevOps
+- ⚙️ Broadcom Automic Workload Automation
+- 🔄 Ansible
+- 📊 Jira
 
 ## Certifications
 
 - **Cloud Computing:**
+  - [HCCDP - Solution Architect / Huawei Cloud](https://drive.google.com/file/d/1WyDLsu7LzkTxLWL3x_AyR_N7rBiBXKln/view)
   - [HCCDA - Tech Essential / Huawei Cloud](https://drive.google.com/file/d/1CyZdieeIVSlKrF07vQ3K9ft_6k9_2Dgn/view)
 - **Backend Development:**
   - [Tübitak Bilgem YTE Bootcamp Spring Developer](https://drive.google.com/file/d/1QUYDBqLtvNQIunEB676wHxzwsRMVOrKQ/view)

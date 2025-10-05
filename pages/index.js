@@ -29,7 +29,7 @@ export default function Home({ posts }) {
               Ömer Faruk Kan
             </h1>
             <h2 className="mb-1 text-xl font-bold tracking-tight text-zinc-600 dark:text-white md:text-2xl">
-              Software Engineer
+              SRE & DevOps Engineer
             </h2>
           </div>
           <div className="relative mb-8 mr-auto w-[100px] sm:mb-0 sm:w-[200px]">
@@ -66,9 +66,10 @@ export default function Home({ posts }) {
             </li>
           </ul>
           <p className="mt-4">
-            Currently working as a part-time Software Engineer at Eteration, where I contribute to
-            enterprise-level solutions. I'm actively pursuing certifications in cloud technologies
-            and continuously expanding my knowledge through hands-on projects and bootcamps.
+            Currently working as an SRE & DevOps Engineer at Doğuş Teknoloji in the Cloud & Platform
+            team, focusing on application operations management and infrastructure reliability. I'm
+            actively pursuing certifications in cloud technologies and continuously expanding my
+            knowledge through hands-on projects and bootcamps.
           </p>
         </div>
         <div className="mt-8 flex flex-wrap gap-4 text-center">
@@ -164,13 +165,13 @@ export default function Home({ posts }) {
           <li className="dark:text-zinc-350 my-5 flex items-center gap-4 text-zinc-500">
             <a
               className="link focusable font-medium text-zinc-800 dark:text-white"
-              href="https://www.eteration.com/"
+              href="https://www.dogusteknoloji.com/"
               rel="noreferrer"
               target="_blank"
             >
               <Image
-                src="/static/images/workxp/eteration.jpg"
-                alt="Eteration"
+                src="/static/images/workxp/25997159.png"
+                alt="Doğuş Teknoloji"
                 width="50px"
                 height="50px"
                 className="rounded-md"
@@ -179,59 +180,21 @@ export default function Home({ posts }) {
             <div className="flex min-w-0 flex-col justify-center">
               <p className="mb-1 flex items-center">
                 <span className="truncate font-semibold text-zinc-700 dark:text-zinc-100">
-                  Eteration
+                  Doğuş Teknoloji
                 </span>
                 <span className="ml-1.5 inline-block flex-none translate-y-px rounded bg-zinc-100 p-1 text-xs font-medium leading-none text-zinc-500 dark:bg-zinc-800 dark:text-zinc-400">
-                  Oca 2025
+                  Tem 2025
                   <span className="text-zinc-350 dark:text-zinc-550 mx-0.5">—</span>
                   Şimdi
                 </span>
               </p>
               <p className="flex items-center truncate">
                 <span className="flex-1 truncate text-zinc-500 dark:text-zinc-400">
-                  Yazılım Mühendisi Uzman Yardımcısı · Yarı zamanlı · Uzaktan
+                  Application Operations Management - SRE & DevOps Engineer · Cloud & Platform Team
                 </span>
               </p>
               <p className="flex items-center truncate text-sm text-zinc-400">
-                Frontend ve backend alanlarında kurumsal çözümler
-              </p>
-            </div>
-          </li>
-
-          <li className="dark:text-zinc-350 my-5 flex items-center gap-4 text-zinc-500">
-            <a
-              className="link focusable font-medium text-zinc-800 dark:text-white"
-              href="https://www.eteration.com/"
-              rel="noreferrer"
-              target="_blank"
-            >
-              <Image
-                src="/static/images/workxp/eteration.jpg"
-                alt="Eteration"
-                width="50px"
-                height="50px"
-                className="rounded-md"
-              />
-            </a>
-            <div className="flex min-w-0 flex-col justify-center">
-              <p className="mb-1 flex items-center">
-                <span className="truncate font-semibold text-zinc-700 dark:text-zinc-100">
-                  Eteration
-                </span>
-                <span className="ml-1.5 inline-block flex-none translate-y-px rounded bg-zinc-100 p-1 text-xs font-medium leading-none text-zinc-500 dark:bg-zinc-800 dark:text-zinc-400">
-                  Eyl 2024
-                  <span className="text-zinc-350 dark:text-zinc-550 mx-0.5">—</span>
-                  Oca 2025
-                </span>
-              </p>
-              <p className="flex items-center truncate">
-                <span className="flex-1 truncate text-zinc-500 dark:text-zinc-400">
-                  Yazılım Mühendisi · Stajyer · Ofisten
-                </span>
-              </p>
-              <p className="flex items-center truncate text-sm text-zinc-400">
-                React Native ve NestJS teknolojileriyle frontend ve backend geliştirme, DevOps
-                çözümleri
+                Site Reliability Engineering, DevOps automation, cloud infrastructure management
               </p>
             </div>
           </li>
@@ -259,16 +222,16 @@ export default function Home({ posts }) {
                 <span className="ml-1.5 inline-block flex-none translate-y-px rounded bg-zinc-100 p-1 text-xs font-medium leading-none text-zinc-500 dark:bg-zinc-800 dark:text-zinc-400">
                   Tem 2024
                   <span className="text-zinc-350 dark:text-zinc-550 mx-0.5">—</span>
-                  Eyl 2024
+                  Tem 2025
                 </span>
               </p>
               <p className="flex items-center truncate">
                 <span className="flex-1 truncate text-zinc-500 dark:text-zinc-400">
-                  Yazılım Mühendisi · Stajyer · Ofisten
+                  Software Engineer Assistant
                 </span>
               </p>
               <p className="flex items-center truncate text-sm text-zinc-400">
-                GitLab ile DevOps çözümleri ve NestJS backend teknolojilerinde deneyim
+                NestJS backend solutions, React Native mobile apps, Docker, GitLab CI/CD
               </p>
             </div>
           </li>
